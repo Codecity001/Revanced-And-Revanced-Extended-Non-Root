@@ -1,1 +1,11 @@
-[]
+[
+    {
+        "patchName": "patch-options",
+        "options": [
+            {
+                "key": "darkThemeBackgroundColor",
+                "value": "@android:color/system_accent2_700"
+            }
+        ]
+    }
+]
